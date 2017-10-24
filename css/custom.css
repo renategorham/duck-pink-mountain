@@ -11,6 +11,7 @@ custom css
 
 .sidebar {
 	margin-top: 5%;
+	font-size: 15px;
 }
 
 #profile {
@@ -22,5 +23,9 @@ custom css
 }
 
 #contact {
+	margin-top: 5%;
+}
+
+.btn {
 	margin-top: 5%;
 }
